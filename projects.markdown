@@ -37,7 +37,7 @@ A collection of regression exercises from the Analytics Edge textbook. Used to d
 ##### Fall 2021
 A project created in the fall of my sophmore year as a culmination of my python knowledge up to that point. Uses the stocker library to chart and predict stock prices from a dictionary. Has a detailed project log.
 
-# <br>Personal Projects</br>
+# <br>Personal Projects
 
 ## [weezeR (ON HAITUS)](https://github.com/ethanmarcano/weezeR)
 ---
