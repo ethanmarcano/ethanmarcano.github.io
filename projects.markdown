@@ -32,10 +32,10 @@ A collection of regression exercises from the Analytics Edge textbook. Used to d
 - [CART and Random Forests](https://github.comhttps://github.com/ethanmarcano/CART-and-Random-Forests)
 - [Visualizations](https://github.com/ethanmarcano/Data-Viz)
 
-## Stock Market Lookup Tool
+## [Stock Market Lookup Tool](https://github.com/ethanmarcano/sophmore-pythonstocktool)
 ---
 ##### Fall 2021
-A project created in the fall of my sophmore year as a culmination of my python knowledge up to that point.
+A project created in the fall of my sophmore year as a culmination of my python knowledge up to that point. Uses the stocker library to chart and predict stock prices from a dictionary. Has a detailed project log.
 
 # <br>Personal Projects </br>
 
@@ -43,4 +43,3 @@ A project created in the fall of my sophmore year as a culmination of my python 
 ---
 Very, very work in progress analysis of Weezer's music using the Spotify API. On haitus.
 
-## []
