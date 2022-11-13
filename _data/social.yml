@@ -1,0 +1,6 @@
+- title: Email
+  url: mailto:emarcano501@gmail.com
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/ethanmarcano
+  icon: fab fa-github

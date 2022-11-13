@@ -8,11 +8,11 @@ Hi, I'm Ethan, a young data analyst from the DC Metro area. I have a fondness fo
 
 
 
-This site was created with Jekyll, using the Minima theme.
+This site was created with Jekyll, using the Tao theme.
 \\
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[tao](https://github.com/vfvong/jekyll-theme-tao)
 
 
 [jekyll-organization]: https://github.com/jekyll
