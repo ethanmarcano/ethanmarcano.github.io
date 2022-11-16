@@ -1,9 +1,10 @@
 - title: About
   url: /about/
+- title: Resume
+  url: /resume/
 - title: Projects
   url: /projects/
-- title: Work Experience
-  url: /resume/
+#- title: Work Experience
+#  url: /experience/
 - title: Currently Reading
   url: /reading/
-
