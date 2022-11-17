@@ -44,7 +44,12 @@ permalink: /skills/
 ***
 
 ### Activities
-+ Church youth group
++ Internship with Breakthru
+    - Learned about Business Analyst role
+    - Gained proficiency with Microsoft 365 and PowerBI
++ Senior Capstone Project
+    - Created a white paper for Serco
+    - Use cases for their Natural Language Processing software, Tech-Trakr
 
 ***
 
